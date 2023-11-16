@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with UserManganementDashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-Made the Deployment Using Github Pages by changing the package.json components such as  homepage url and adding your credentials. 
+Anyone can make the Deployment Using Github Pages by changing the package.json components such as  homepage url and adding your credentials. 
 
 ### `npm run build` fails to minify
 
